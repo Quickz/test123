@@ -42,8 +42,9 @@
     "libraryInitializers": null,
     "pdb": null,
     "runtime": {
+      "dotnet.7.0.0.npy0epaua7.js": "sha256-oEksAexyPumTmlLK6toHyjZUtbD+Vz516cM39XRcByk=",
       "dotnet.timezones.blat": "sha256-NFPG+mWpX1lpilZGC5d9W\/8+Yjx+6oW2ujo2u+HYW1Q=",
-      "dotnet.wasm": "sha256-KVz3YqEYrAbssbQxMepWE8FKcM9RcrQaLZGdpGlasD8=",
+      "dotnet.wasm": "sha256-EL3m8Ti1bGlCJ3IAoNI6xnppqbEgRg1I1rsJ328bqLg=",
       "icudt.dat": "sha256-DXO3tJHXDOV4qgW\/w8ooggAgZdAVpa5ZllYYAQWpYIk=",
       "icudt_CJK.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
       "icudt_EFIGS.dat": "sha256-l7NtS3cI+3VUoQ2XQvlzMb8x4Ow1BtnOJNLWc6bifW0=",
@@ -52,7 +53,7 @@
     "runtimeAssets": {
       "dotnet.wasm": {
         "behavior": "dotnetwasm",
-        "hash": "sha256-KVz3YqEYrAbssbQxMepWE8FKcM9RcrQaLZGdpGlasD8="
+        "hash": "sha256-EL3m8Ti1bGlCJ3IAoNI6xnppqbEgRg1I1rsJ328bqLg="
       }
     },
     "satelliteResources": null
